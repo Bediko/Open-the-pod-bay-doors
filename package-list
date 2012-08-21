@@ -1,0 +1,14 @@
+com.OpenthePodBayDoor
+com.trilead.ssh2
+com.trilead.ssh2.auth
+com.trilead.ssh2.channel
+com.trilead.ssh2.crypto
+com.trilead.ssh2.crypto.cipher
+com.trilead.ssh2.crypto.dh
+com.trilead.ssh2.crypto.digest
+com.trilead.ssh2.log
+com.trilead.ssh2.packets
+com.trilead.ssh2.sftp
+com.trilead.ssh2.signature
+com.trilead.ssh2.transport
+com.trilead.ssh2.util
